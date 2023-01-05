@@ -1,0 +1,36 @@
+{
+	"NAME"		     : "Kerturn (KV) by Ph34rb0t",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/Kerturn.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/Kerturn/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"		    : "zer0Kerbal",
+		"REPOSITORY"		: "Kerturn",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 1,
+		"PATCH" : 0,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 23,
+		"PATCH" : 5
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 23,
+		"PATCH" : 5
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :		 "Kerturn",
+		"DIRECTORY" :	 "HotBeverage/Kerturn"
+	}
+}
